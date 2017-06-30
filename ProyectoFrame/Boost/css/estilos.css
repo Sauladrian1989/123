@@ -1,0 +1,72 @@
+
+body{
+  background-image: url("../img/escenario.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.nav{
+background-color: rgba(196, 192, 254,.7);
+margin-right: 15px;
+margin-left: 15px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+
+.logo{
+  width: 25%;
+}
+
+.espacio{
+  height: 25px;
+  background-color: rgb(196, 192, 254);
+  margin-right: 15px;
+  margin-left: 15px;
+  border-radius: 2px;
+
+}
+.img-social{
+  width: 5%;
+  float: right;
+}
+
+.col-social{
+  margin-top: 50px;
+}
+
+.nave{
+  border: 1px solid black;
+}
+
+.navegacion{
+  margin-right: 15px;
+}
+
+#comentario{
+  border: 1px black solid;
+}
+
+
+.armintxt{
+  float: right;
+}
+
+p,h2{
+  color: grey;
+}
+
+.tiesto{
+width: 100%;
+margin: auto;
+
+}
+
+.armin{
+width: 100%;
+margin: auto;
+
+}
+
+.columndown{
+  margin-top: 25px;
+}

@@ -1,0 +1,48 @@
+
+
+body{
+  background-image: url("../img/cocina.jpg");
+  background-size: cover;
+
+}
+
+.titulo{
+  font-family: Patrick Hand SC;
+  font-size: 25px;
+  height: 75px;
+  background-color: rgb(37, 150, 177);
+}
+
+.nav{
+  border: 1px solid black;
+}
+
+
+.menus{
+  font-family: Patrick Hand SC;
+  font-size: 25px;
+  color: white;
+}
+
+.marco{
+margin: 5px;
+  background-color: rgb(244, 121, 128);
+  box-shadow: 2px 2px 2px 2px;
+}
+.foto,img{
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.menu-left{
+  background-color: rgb(244, 121, 128);
+}
+
+.comida{
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 3px;
+}
+
+.margen{
+  margin-top: 20px;
+}

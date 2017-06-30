@@ -1,0 +1,46 @@
+
+
+.logo{
+  height: 80px;
+  margin: 5px;
+}
+
+.social{
+  height: 50px;
+}
+
+.travel{
+    box-shadow: 3px 3px 3px 3px ;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:pink;
+}
+
+.margen{
+  margin-top: 45px;
+}
+
+.margen1{
+  margin-top: 10px;
+}
+
+
+.texto{
+font-size: 20px;
+}
+
+blockquote{
+  border-top: 1px solid black;
+}
+
+h4{
+  text-align: center;
+}
+
+p{
+  text-align: justify;
+}
+
+.biografia{
+  margin-top: 20px;
+}
